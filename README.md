@@ -1,2 +1,5 @@
-# RedNeuronal_desdeCero
-Se creó una red neuronal desde cero para clasificar puntos, utilizando los datos "make_moons" de la libreria scikit learn
+# Red Neuronal
+
+A continuación, se muestra el diagrama de la red que se implementó:
+
+![DiagramaDeRedNeuronal](/images/DiagramaDeRedNeuronal.PNG)
