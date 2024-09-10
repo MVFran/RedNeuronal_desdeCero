@@ -7,7 +7,9 @@ A continuación, se muestra el diagrama de la red que se implementó:
 ![DiagramaDeRedNeuronal](/images/DiagramaDeRedNeuronal.PNG)
 
 Como función de activación para la primera capa oculta, se utilizó la función ReLU, que se define como:
+
 $$ ReLU(z) = max(0,z) $$
 
 Seguido a esto, se utilizaron dos funciones de activación distintas para observar las diferencias que presentaba cada una, las cuales fueron:
+
 $$ tanh(z) \ \& \ sigmoide(z) = \frac{1}{1+e^{-z}}$$
