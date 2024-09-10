@@ -12,4 +12,6 @@ $$ ReLU(z) = max(0,z) $$
 
 Seguido a esto, se utilizaron dos funciones de activación distintas para observar las diferencias que presentaba cada una, las cuales fueron:
 
-$$ tanh(z) \ \& \ sigmoide(z) = \frac{1}{1+e^{-z}}$$
+$$ tanh(z) $$
+
+$$ sigmoide(z) = \frac{1}{1+e^{-z}}$$
